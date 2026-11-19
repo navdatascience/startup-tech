@@ -2,6 +2,21 @@
 
 Startup ideas, new AI tools, and founder stories with Mimi and Alex. Newest first. Sources: Starter Story, Greg Isenberg, and The Next New Thing AI on YouTube. Each entry links to the episode audio and its full transcript.
 
+## November 19, 2026 — Startup Tech — Thursday, November 19, 2026
+
+- Listen: https://muse.ai/podcasts/media/650408721490907/f30b964a-6511-4100-9934-5af026fd65f9/ep-a7d3236a-2cd6-4a06-b63e-d14c9aad8050.mp3
+- Length: ~8 minutes
+- Transcript: [transcripts/2026-11-19.md](transcripts/2026-11-19.md)
+- Summary: Starter Story's Oliver Brocato takes Bustem to six hundred thousand dollars a month bootstrapped, Greg Isenberg on a one-person media machine run by Grok Bot, and The Next New Thing on open-source projects that grow a business.
+
+- Starter Story (Nov 18, 2026): "How I Built It: $600K/Month SaaS" — Oliver Brocato took Bustem from zero to six hundred thousand dollars in monthly recurring revenue in just over a year, completely bootstrapped, after exiting his earlier company Tabs Chocolate; the episode breaks down his pivot and a productized-services style model for SaaS
+- Greg Isenberg (Nov 18, 2026): "Build a 1 Person Media Machine With Grok Bot" — Louise de Sadeleer of Tella runs her whole video process through Grok Bot: idea capture from her phone, weekly routines that pull outlier posts and saved hooks, trend digests, a group chat where two bots pitch ideas together, advisor skills for scripts, editing from her phone, and bot-written titles and chapters; her Instagram grew by six thousand five hundred followers in three months
+- The Next New Thing AI (Nov 19, 2026): "Open Source projects guaranteed to grow your business" — Andrew Warner and Jesse Pujji tour Sellbird for AI sales prospecting, Marketing Skills for turning Claude into a marketing assistant, Novu for notifications and payment recovery, plus Chatwoot, Mautic, Plane, GrowthBook, Formbricks, and Meilisearch; the business opportunity is helping companies customize and run open-source tools
+- The Next New Thing AI (Nov 16, 2026): "1 prompt: rebuild and run any app" — Ben Senescu of Every App on rebuilding tools like Bitly, Granola, or Ahrefs from open source, customizing them with AI, and hosting them in one place; OpenSEO as an open-source Ahrefs alternative and OpenScribe for meeting notes
+- Takeaway: pick one open-source tool your niche already needs, and sell the setup, customization, and running of it as a productized service this week
+
+---
+
 ## November 18, 2026 — Startup Tech — Wednesday, November 18, 2026
 
 - Listen: https://muse.ai/podcasts/media/650408721490907/f30b964a-6511-4100-9934-5af026fd65f9/ep-8ee09c60-c151-41bf-99b4-eaea7e5ca8f5.mp3
