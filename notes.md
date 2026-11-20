@@ -2,6 +2,25 @@
 
 Startup ideas, new AI tools, and founder stories with Mimi and Alex. Newest first. Sources: Starter Story, Greg Isenberg, and The Next New Thing AI on YouTube. Each entry links to the episode audio and its full transcript.
 
+## November 20, 2026 — Startup Tech — Friday, November 20, 2026
+
+- Listen: https://muse.ai/podcasts/media/650408721490907/f30b964a-6511-4100-9934-5af026fd65f9/ep-a2dabda3-dd73-4033-826b-1be1228392c8.mp3
+- Length: ~7 minutes
+- Transcript: [transcripts/2026-11-20.md](transcripts/2026-11-20.md)
+- Summary: A night-shift call center worker's M eight-app portfolio, Charlie's Liinks at 0K/month via price raises and search ads, Greg Isenberg's 8 AI-proof business categories, and GPT-6.2 Astra leading The Next New Thing's newest roundup.
+
+- Starter Story (Nov 16, 2026, Short): "Bro worked night shifts at a call center and now has generated $1M+ with 8 apps and zero employees" — portfolio of eight small apps built on night shifts passed one million dollars in total generation with no employees; used as the cold open
+- Starter Story (long-form case study, starterstory.com): "How I Built It: $30K/Month Micro-SaaS" — Charlie bootstrapped Liinks, a link-in-bio tool, to over thirty thousand dollars a month in a saturated market and quit his job twice; with the Nov 11 Short "$30k/mo SaaS founder doubled his monthly price and growth exploded" and the Nov 6 Short "Bro's $30k MRR link-in-bio tool has been powered by Google ads" — playbook is paid search plus a price doubling as the growth lever
+- Starter Story (Nov 18, 2026, Short): "$50K MRR solo founder reveals how he gets 100's of creators to promote his app" — creator-led distribution as the moat
+- Starter Story (Nov 15, 2026, Short): "Bro's ebook AI wrapper has generated $130,000 in 4 months" — narrow ebook AI wrapper aimed at one buyer
+- Greg Isenberg (Nov 4, 2026): "8 AI-Proof Businesses I'd build in 2027" (YouTube title "8 Businesses for the AI Age") — eight categories: atoms, permission, attention, timing, belonging, liquidity, unique data, outcomes; Hampton belonging example (founders at $3M+ revenue), Cars & Bids and final.com liquidity-plus-attention examples; ranks atoms, permission and attention near the top and outcomes last, and urges mixing categories; applied idea: niche curated directory plus paid community, providers pay listing fees, members pay a subscription. Covered today because his newest video (Nov 18 Grok Bot media machine) was already covered on Nov 19 and he has posted nothing newer
+- The Next New Thing AI (Nov 19, 2026): "Astra 6.2, Google's world creator, ChatGPT spends money, and more" — GPT-6.2 Astra and Sol released Nov 17; Astra $8/$40 per million tokens, 20% cheaper, about 1M-token context; Sol $2/$10; Artificial Analysis scores Astra 62 vs Claude Fable 5.2 at 65; cheaper frontier intelligence improves agent-business margins
+- The Next New Thing AI (Nov 17, 2026): "I Made a Free Grok Bot (Open Source, No Limits)" — free open-source personal agent, over 50K views
+- The Next New Thing AI (Nov 16, 2026, Short): "Ghost — Stop Paying $300/Month for Newsletters" — open-source Ghost as the free alternative to paid newsletter tools
+- Takeaway: pick one AI-proof category from Greg's map (license, physical presence, community, or unique data) that a clone cannot copy, pair it with a cheap new model, and ship the smallest paid version this week
+
+---
+
 ## November 19, 2026 — Startup Tech — Thursday, November 19, 2026
 
 - Listen: https://muse.ai/podcasts/media/650408721490907/f30b964a-6511-4100-9934-5af026fd65f9/ep-a7d3236a-2cd6-4a06-b63e-d14c9aad8050.mp3
