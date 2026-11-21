@@ -2,6 +2,24 @@
 
 Startup ideas, new AI tools, and founder stories with Mimi and Alex. Newest first. Sources: Starter Story, Greg Isenberg, and The Next New Thing AI on YouTube. Each entry links to the episode audio and its full transcript.
 
+## November 21, 2026 — Startup Tech — Saturday, November 21, 2026
+
+- Listen: https://muse.ai/podcasts/media/650408721490907/f30b964a-6511-4100-9934-5af026fd65f9/ep-437f994d-681a-4825-aceb-660d0f70efc0.mp3
+- Length: ~8 minutes
+- Transcript: [transcripts/2026-11-21.md](transcripts/2026-11-21.md)
+- Summary: John Rush's 20-app portfolio at 50K/month, CJ Zafir's CodeGuide to 2K MRR in 90 days, Greg Isenberg on Gemini 4 Neon, and The Next New Thing on ,000/hour AI work and money-printing GitHub repos.
+
+- Starter Story (Nov 13, 2026): "I Make $250K/Month From 20 Apps" — John Rush runs 26 software products as a solo founder, about three million dollars a year and about one million users; seven products bring most of the revenue and the rest bring audience; flagship Unicorn Platform; validation blueprint is pain, waitlist, pre-sale, then manual delivery; co-maker partners and a cross-promotion flywheel across the portfolio; used as the cold open
+- Starter Story (Nov 16, 2026): "From Zero to $42K/Month in 90 Days with AI" — CJ Zafir built CodeGuide, a planning and knowledge tool for AI coding, to a founder-reported forty-two thousand dollars in monthly recurring revenue in about ninety days, with a community of more than four thousand eight hundred AI developers; validated with a quick landing page before building
+- Greg Isenberg (Nov 20, 2026): "Gemini 4 Neon: the most underrated model of the year" — solo episode, sixteen minutes; Greg tested Gemini 4 Neon inside Google Antigravity and calls it frontier-level intelligence with fast end-to-end task completion; applied idea: sell one fast end-to-end workflow to operators, priced as a setup fee plus a monthly retainer
+- The Next New Thing AI (Nov 19, 2026, Corey Ganim episode list): "Give me 14 minutes, I'll show you how to make $1,000/hour with AI" — packaging AI work by value instead of by the hour
+- The Next New Thing AI (Nov 17, 2026, Corey Ganim episode list): "3 GitHub repos that print $$$ before 2027" — starting from proven open-source repos instead of a blank page
+- The Next New Thing AI (Nov 20, 2026, Corey Ganim episode list): "Is astra 6.2 better than fable 5.2? (the raw reality)" — noted as a follow-up comparison; the Astra versus Fable angle itself was covered on Nov 20
+- Tool news (Google Antigravity changelog, Nov 20, 2026): Gemini 4 Neon and MCP Apps arrive for eligible paid plans, with an Orchestrator that plans with Neon and implements with Gemini 4 Hydrogen, four thinking levels, and remote SSH connections
+- Takeaway: copy John Rush's validation order this week — find the pain, build a waitlist, pre-sell, deliver manually — then automate one end-to-end workflow on a fast new model and charge for the outcome
+
+---
+
 ## November 20, 2026 — Startup Tech — Friday, November 20, 2026
 
 - Listen: https://muse.ai/podcasts/media/650408721490907/f30b964a-6511-4100-9934-5af026fd65f9/ep-a2dabda3-dd73-4033-826b-1be1228392c8.mp3
