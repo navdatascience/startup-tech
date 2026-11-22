@@ -2,6 +2,22 @@
 
 Startup ideas, new AI tools, and founder stories with Mimi and Alex. Newest first. Sources: Starter Story, Greg Isenberg, and The Next New Thing AI on YouTube. Each entry links to the episode audio and its full transcript.
 
+## November 22, 2026 — Startup Tech — Sunday, November 22, 2026
+
+- Listen: https://muse.ai/podcasts/media/650408721490907/f30b964a-6511-4100-9934-5af026fd65f9/ep-3229113a-88ea-4bc0-9b58-79ba1610f0a5.mp3
+- Length: ~8 minutes
+- Transcript: [transcripts/2026-11-22.md](transcripts/2026-11-22.md)
+- Summary: Mike Hill's five boring SaaS apps at 00K MRR and Gil's 0K pre-sale playbook from Starter Story, Greg Isenberg's Fable 5.2 money prompts, and Ryan Matthews' vibe-coded elk-calling app at 5K MRR in 109 days from Corey Ganim.
+
+- Starter Story (reported Nov 12, 2026): "I Built 3 SaaS Apps to $200K MRR: Here's My Exact Playbook" — Mike Hill in Australia runs five bootstrapped apps, Curator, Frill, Juuno, Fluke, and Smiile, at just over two hundred thousand dollars in monthly recurring revenue combined; his ten step playbook copies proven ideas in red ocean markets, wins on user experience and price, sells private lifetime deals, launches on AppSumo, and writes search content from day one; used as the cold open
+- Starter Story (Nov 14, 2026): "How I Built It: $30K/month Micro-SaaS (Subscribr Breakdown)" — Gil collected twenty thousand dollars in pre-sales before writing code for Subscribr, an AI scriptwriting tool for YouTube creators, now over thirty thousand dollars a month from more than four thousand customers; validation by payment, not surveys
+- Greg Isenberg (Nov 10, 2026): "Claude Fable 5.2: How I'd Make Money With It" — twelve prompts episode covered today for its prompt by prompt playbook because Greg has posted nothing newer than the Nov 20 Gemini 4 Neon episode, which was covered on Nov 21; focus today: the full business audit prompt, the one hundred niche subagent sweep, the deal checker for buying a boring business, and the one person hardware company prompt that produced the Plain One minimalist phone; thesis is sell the finished job per output, not the hour
+- The Next New Thing AI / Corey Ganim, Build With AI (Nov 8, 2026): "His vibe coded app hit $55K MRR in 109 days (full breakdown)" — Ryan Matthews built Mountain Whisperer, an elk calling training app, with Claude Code building, Codex reviewing, and Gemini on research; founder reported fifty-five thousand dollars in monthly recurring revenue and about three thousand five hundred customers in about one hundred ten days, priced at twenty-nine dollars a month or ninety-nine dollars a year, with about four in ten free testers buying
+- The Next New Thing AI / Corey Ganim, Build With AI (Nov 11, 2026): "Fable 5.2 + GitHub built me a business in a box" — one prompt turned the open source TastyIgniter restaurant ordering repo into an offer, an ideal client profile, leads, five static ads, and two user generated style videos, at a total stated cost of nine dollars and thirty cents; the nine hundred ninety-nine dollar assessment is the entry offer
+- Takeaway: copy a proven product in a market that already pays, take payment before you build, and use the new models to audit, research, and package the offer this week
+
+---
+
 ## November 21, 2026 — Startup Tech — Saturday, November 21, 2026
 
 - Listen: https://muse.ai/podcasts/media/650408721490907/f30b964a-6511-4100-9934-5af026fd65f9/ep-437f994d-681a-4825-aceb-660d0f70efc0.mp3
