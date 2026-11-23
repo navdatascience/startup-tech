@@ -2,6 +2,22 @@
 
 Startup ideas, new AI tools, and founder stories with Mimi and Alex. Newest first. Sources: Starter Story, Greg Isenberg, and The Next New Thing AI on YouTube. Each entry links to the episode audio and its full transcript.
 
+## November 23, 2026 — Startup Tech — Monday, November 23, 2026
+
+- Listen: https://muse.ai/podcasts/media/650408721490907/f30b964a-6511-4100-9934-5af026fd65f9/ep-7fa768aa-81b2-4b3d-a972-7d5070f64cf6.mp3
+- Length: ~7 minutes
+- Transcript: [transcripts/2026-11-23.md](transcripts/2026-11-23.md)
+- Summary: Dustin Stout's no-code Magai app hits almost 100K a month and David Park's basement-to-25-million story from Starter Story, Greg Isenberg's context loop for company building, and Corey Ganim's guide to a first 1,000 dollar AI consulting client.
+
+- Starter Story (listed Nov 19, 2026): "How I Built It: $99K/month AI app" — Dustin Stout built Magai, an all-models-in-one AI platform, in 8 weeks with no-code tool Bubble and no coding experience; founder-reported $3,000 in month one, $10,000/month two months later, $30,000/month a year later, now almost $100,000/month and well over $1M total revenue; customers on day one came from the blog and newsletter audience he had built over about ten years of marketing writing; used as the cold open
+- Starter Story (Nov 15, 2026): "The Underdog: From His Parent's Basement to $25M" — David Park failed at about nine or ten startups over nearly a decade before building Jenny (Jenni AI writing tool for agencies) with co-founder Henry; sold it by cold-calling agencies about eight hours a day from his parents' basement; company now valued at over $25M
+- Greg Isenberg (Nov 21, 2026, via AGI Hunt summary of his post): "Building a company is now a loop" — acquire valuable context, orchestrate agents to build on it, feed the data back in, call humans like an API, repeat; best context and fastest loop wins; applied idea: sell a weekly context loop to one kind of operator, setup fee plus monthly retainer, one finished improvement shipped every week. Greg has posted no newer video than the Nov 20 Gemini 4 Neon episode covered Nov 22, so this episode goes deeper on his newest thinking
+- Greg Isenberg (recent Startup Ideas Podcast / Where It Happens SaaS playbook episode): "Biggest wealth creation opportunity is SaaS" — 30-step playbook for a modern SaaS company using AI agents, media, and sub-niche positioning; start with a sub-niche inside a big market, outcome pricing (steps 22-23), then expand workflows, build switching costs, and create case studies (steps 24-27)
+- The Next New Thing AI / Corey Ganim, Build With AI #236 (Nov 22, 2026): "Close your first $1,000 AI consulting client before christmas (full guide)" — 16 min solo episode built on Corey's paid assessment model: $999 for a structured ~45-minute diagnosis call, roughly half of assessment buyers convert to retainers of about $1,200-$1,800/month (per Vendasta's guide to Corey's model); proof story: his first AI agent cost about $30/month to run and produced roughly $11,000/month for a wedding venue client via speed-to-lead; Corey runs a free live training Tue Nov 24, 2026 on building a $100K/year AI consulting business
+- Takeaway: do not start by building an agent — sell one paid diagnosis this week to an owner you already know, and let that conversation design the first build
+
+---
+
 ## November 22, 2026 — Startup Tech — Sunday, November 22, 2026
 
 - Listen: https://muse.ai/podcasts/media/650408721490907/f30b964a-6511-4100-9934-5af026fd65f9/ep-3229113a-88ea-4bc0-9b58-79ba1610f0a5.mp3
