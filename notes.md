@@ -4,10 +4,10 @@ Startup ideas, new AI tools, and founder stories with Mimi and Alex. Newest firs
 
 ## November 23, 2026 — Startup Tech — Monday, November 23, 2026
 
-- Listen: https://muse.ai/podcasts/media/650408721490907/f30b964a-6511-4100-9934-5af026fd65f9/ep-7fa768aa-81b2-4b3d-a972-7d5070f64cf6.mp3
-- Length: ~7 minutes
+- Listen: https://muse.ai/podcasts/media/650408721490907/f30b964a-6511-4100-9934-5af026fd65f9/ep-113e5630-133e-4612-bf7b-8a6553337d3b.mp3
+- Length: ~6 minutes
 - Transcript: [transcripts/2026-11-23.md](transcripts/2026-11-23.md)
-- Summary: Dustin Stout's no-code Magai app hits almost 100K a month and David Park's basement-to-25-million story from Starter Story, Greg Isenberg's context loop for company building, and Corey Ganim's guide to a first 1,000 dollar AI consulting client.
+- Summary: Max and Alex on Magai's ninety-nine thousand dollars a month, the Jenny underdog story, building a company as a loop, and landing a first AI consulting client
 
 - Starter Story (listed Nov 19, 2026): "How I Built It: $99K/month AI app" — Dustin Stout built Magai, an all-models-in-one AI platform, in 8 weeks with no-code tool Bubble and no coding experience; founder-reported $3,000 in month one, $10,000/month two months later, $30,000/month a year later, now almost $100,000/month and well over $1M total revenue; customers on day one came from the blog and newsletter audience he had built over about ten years of marketing writing; used as the cold open
 - Starter Story (Nov 15, 2026): "The Underdog: From His Parent's Basement to $25M" — David Park failed at about nine or ten startups over nearly a decade before building Jenny (Jenni AI writing tool for agencies) with co-founder Henry; sold it by cold-calling agencies about eight hours a day from his parents' basement; company now valued at over $25M
