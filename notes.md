@@ -2,6 +2,21 @@
 
 Startup ideas, new AI tools, and founder stories with Mimi and Alex. Newest first. Sources: Starter Story, Greg Isenberg, and The Next New Thing AI on YouTube. Each entry links to the episode audio and its full transcript.
 
+## November 24, 2026 — Startup Tech — Tuesday, November 24, 2026
+
+- Listen: https://muse.ai/podcasts/media/650408721490907/f30b964a-6511-4100-9934-5af026fd65f9/ep-b9d675bb-6294-40dc-bc30-c8ae84e72353.mp3
+- Length: ~8 minutes
+- Transcript: [transcripts/2026-11-24.md](transcripts/2026-11-24.md)
+- Summary: Max and Alex on a SaaS built to seventy thousand dollars a month by posting one YouTube video a day, a one person design agency passing a million a year, robots as the new apps, and three nine hundred ninety nine dollar AI assessments
+
+- Starter Story (Nov 19, 2026): "I Built a $1M SaaS Using YouTube" — Vasco built an AI marketing-copy tool to $70,000/month recurring revenue almost entirely from YouTube, posting one video a day for over a year starting in 2022, no fancy editing; public bet: post daily for 45 days and if you do not earn at least $5,000 he will PayPal you $500; used as the cold open
+- Starter Story (Nov 18, 2026): "This one-man business makes over $1M per year" — Design Joy, a one-person design agency selling a productized service at a flat $4,995/month for unlimited design work, generating over $1M/year
+- Greg Isenberg (Nov 23, 2026): "Robots are the new apps (and you're early)" — with Adrien Gaidon, co-founder and Chief Strategy Officer of Walden Robotics; robots are now taught by data and demonstrations rather than programmed; deployment data earned on real factory floors is the most valuable data; Walden chose wheels over legs and simple two-finger grippers over complex hands; openings for smaller founders in teleoperation, robotics insurance, deployment/experiment tooling, supply chain, and niche one-job robots (welding, gardening); pricing shifting from seats/hardware to pay per outcome; applied idea: a deployment diary service for small factories, setup fee plus monthly retainer tied to hours saved
+- The Next New Thing AI / Corey Ganim, Build With AI #233 (Nov 17, 2026, detailed breakdown): "3 GitHub repos that print $$$ before 2027" — three $999 assessments: ActivityWatch time-leak audit (ranked list of avoidable manual work), Elmo AI search visibility check vs three competitors (mentions, citations, errors; ~$300/month monitoring follow-on example), Browser Use inquiry/secret-shopper audit (where quote requests slow down or disappear); plus Corey's free live training on Tue Nov 24, 2026 on landing a first $1,000 AI consulting client, and his Charlotte AI for Business meetups (five run, sixth on Nov 24) as the trust room where assessments sell
+- Takeaway: run a 45-day daily-video streak aimed at one kind of business owner, ending each video with one fixed-price assessment offer (time, visibility, or lead leak)
+
+---
+
 ## November 23, 2026 — Startup Tech — Monday, November 23, 2026
 
 - Listen: https://muse.ai/podcasts/media/650408721490907/f30b964a-6511-4100-9934-5af026fd65f9/ep-113e5630-133e-4612-bf7b-8a6553337d3b.mp3
