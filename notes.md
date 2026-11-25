@@ -2,6 +2,21 @@
 
 Startup ideas, new AI tools, and founder stories with Mimi and Alex. Newest first. Sources: Starter Story, Greg Isenberg, and The Next New Thing AI on YouTube. Each entry links to the episode audio and its full transcript.
 
+## November 25, 2026 — Startup Tech — Wednesday, November 25, 2026
+
+- Listen: https://muse.ai/podcasts/media/650408721490907/f30b964a-6511-4100-9934-5af026fd65f9/ep-98e08f4f-52d5-43c1-ba80-d1f58914a2b2.mp3
+- Length: ~9 minutes
+- Transcript: [transcripts/2026-11-25.md](transcripts/2026-11-25.md)
+- Summary: Max and Alex on launching a new million dollar business every month, an encrypted app built in three weeks making two thousand dollars a day, the war on AI agents, and a zero employee company at a ten million dollar run rate
+
+- Starter Story (Nov 25, 2026): "He's Launching A New $1M Business Every Month" — Hunter Hammonds in Chicago, on a mission to build 12 $1,000,000 businesses in 12 months; productized service as the launchpad for a bigger vision; his earlier design subscription Off Menu grew to millions in revenue in months; used as the cold open. Applied playbook: launch one packaged service (one buyer, one promise, fixed delivery) before launching anything else
+- Starter Story (Oct 18, 2026, detailed breakdown): "I built an app that makes $2K PER DAY" — Rasty Turek built Vaultaire, an on-device encrypted storage iPhone app, in about three weeks with AI coding agents; founder-reported $66 in month one, $41,000 in a single month six months later, averaging about $2,000-$3,000/day, over 60,000 downloads; conversion lowest on day one (~5.47%) and highest around day 60; growth via automated SEO, about one guide a day with internal linking; lifetime purchases about 60% of purchases
+- Greg Isenberg (Oct 21, 2026): "The 9 Stages of AI Agent Adoption, Explained" / the war on agents — Amazon blocking Meta's personal agent, an airline treating outside booking agents as unauthorized, a reviews platform charging agents for access; middle camp blocks agents by accident via anti-scraping tools; agent as a customer with no eyes and a credit card who reads prices, shipping and returns; nine stages modelled on the Mint/Plaid history; applied idea: an agent-readiness service for one niche, done by hand ten times, setup fee plus monthly retainer, becoming a trusted middle layer for one vertical. Covered today because Greg's newest video (Nov 23 robots) was covered Nov 24 and he has posted nothing newer
+- The Next New Thing AI (May 27, 2026 episode, detailed breakdown): "Polsia: AI Agent + Zero Employees = $10M Run Rate" — Andrew Warner presses Ben Cera for real data on Polsia, a platform whose agents build, market and operate startups; claimed $10M annual run rate with no full-time staff, $30M funding round, about 50% month-one churn, and a model-provider bill reported at $1-1.5M/month before fixes; builder lesson: price agent work above agent cost
+- Takeaway: build one small engine you can run daily (packaged service, one search guide, or one agent-readiness check) and let repetition compound; engines are still working on day 60, when the money shows up
+
+---
+
 ## November 24, 2026 — Startup Tech — Tuesday, November 24, 2026
 
 - Listen: https://muse.ai/podcasts/media/650408721490907/f30b964a-6511-4100-9934-5af026fd65f9/ep-b9d675bb-6294-40dc-bc30-c8ae84e72353.mp3
