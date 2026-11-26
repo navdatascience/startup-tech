@@ -2,6 +2,22 @@
 
 Startup ideas, new AI tools, and founder stories with Mimi and Alex. Newest first. Sources: Starter Story, Greg Isenberg, and The Next New Thing AI on YouTube. Each entry links to the episode audio and its full transcript.
 
+## November 26, 2026 — Startup Tech — Thursday, November 26, 2026
+
+- Listen: https://muse.ai/podcasts/media/650408721490907/f30b964a-6511-4100-9934-5af026fd65f9/ep-1472b497-3c3f-4dcc-835f-38ee03b52ed8.mp3
+- Length: ~8 minutes
+- Transcript: [transcripts/2026-11-26.md](transcripts/2026-11-26.md)
+- Summary: Max and Alex on a five hundred dollar start that became a ten million dollar clothing empire, a Reddit micro-SaaS jumping to forty thousand dollars a month, Greg Isenberg on Muse connectors as the next app store moment, and why the AI writing tool Lex is winding down
+
+- Starter Story (Nov 26, 2026): "He Turned $500 Into $10M" — Karthik Shanadi built a $10M clothing empire from $500, interviewed in his New York City apartment; used as the cold open
+- Starter Story (Nov 22, 2026): "He Scaled a Reddit Micro-SaaS to $40K/Month" — Philip, a software developer building on the side for seven years; first seven products failed; built Bosley, a rated marketing tool, from 0 to $15K MRR, then jumped to over $40,000/month in the three weeks while the episode was being edited; one change tripled revenue almost overnight on top of fundamentals already in place; distribution via Reddit
+- Greg Isenberg / Startup Ideas Podcast (Sep 24, 2026): "Muse AI Connectors: The Next App Store Moment?" — Meta opened its personal AI agent Muse to developers; connectors let the agent use a service mid-task (podcast studio example: $200 budget, $160 offer); four ideas: lead gen for business suppliers (100 customers at $99/month = $9,900 MRR math), home repair dispatch (per qualified lead / confirmed booking fee), paddle match and court finder, family dinner planning; growth via creators, product-led sharing, connected marketplaces; durable business is the service behind the connector. Covered in depth today as his biggest uncovered platform idea
+- The Next New Thing AI (Oct 2026 interview): "Why Lex Is Winding Down: Nathan Baschez on AI Writing" — Andrew Warner interviews Lex founder Nathan Baschez; Lex winding down by end of 2026 as ChatGPT and Claude absorbed similar writing capabilities; lesson: own workflow, distribution, data, or community, not a single feature platforms can absorb
+- The Next New Thing AI (Nov 19, 2026 drops episode, Andrew Warner + Corey Ganim): practical try-it tools noted briefly — SignuDoc (open-source alternative for a narrow document-signing workflow) and visual screenshot-comparison checking tools; contrasted with flashy world models stuck behind coming-soon screens (model launches themselves covered Nov 20)
+- Takeaway: pick one narrow service in one city/niche that an AI agent could call mid-task, sell the first version by hand to ten buyers before building anything fancy
+
+---
+
 ## November 25, 2026 — Startup Tech — Wednesday, November 25, 2026
 
 - Listen: https://muse.ai/podcasts/media/650408721490907/f30b964a-6511-4100-9934-5af026fd65f9/ep-98e08f4f-52d5-43c1-ba80-d1f58914a2b2.mp3
