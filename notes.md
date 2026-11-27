@@ -2,6 +2,20 @@
 
 Startup ideas, new AI tools, and founder stories with Mimi and Alex. Newest first. Sources: Starter Story, Greg Isenberg, and The Next New Thing AI on YouTube. Each entry links to the episode audio and its full transcript.
 
+## November 27, 2026 — Startup Tech — Friday, November 27, 2026
+
+- Listen: https://muse.ai/podcasts/media/650408721490907/f30b964a-6511-4100-9934-5af026fd65f9/ep-2264de0f-4b0b-4989-b69e-bdcdb1f6e397.mp3
+- Length: ~7 minutes
+- Transcript: [transcripts/2026-11-27.md](transcripts/2026-11-27.md)
+- Summary: Josh Mohrer built Wave AI solo with AI coding help to about thirty thousand subscribers; Greg Isenberg maps the five trillion dollar AI roll-up opportunity for solo founders; Andrew Warner and Corey Ganim round up Claude artifacts becoming desktop apps, Gemini computer use, and OpenAI's small business program.
+
+- Starter Story (listed Nov 27, 2026): "I Quit My Tech Job, Learned to Code with AI, & Built a $6M App" — Josh Mohrer, Uber's first New York general manager, built Wave AI alone after leaving his job in late twenty twenty-two; never shipped software before; first version was a one-screen Swift app built with ChatGPT open next to his editor, keeping steps small; founder told Starter Story about thirty thousand subscribers, about eight thousand hours of audio recorded a day, and four hundred thousand to five hundred thousand dollars a month; still does engineering and support himself; used as the cold open
+- Greg Isenberg / Startup Ideas Podcast (solo episode, transcript surfaced Nov 2026): "$5T opportunity: AI Roll Ups" — about five trillion dollars of small businesses changing hands as owners retire, about a million businesses expected to sell by twenty thirty-five (McKinsey figure cited by Greg); Thrive Holdings and General Catalyst buy accounting firms, property managers, and support centers and run AI agents inside to lift margins; solo-founder version is the small-deal gap the big funds ignore: a one-person holding company with a clear folder structure, agent files, a human approval rule, and agents doing data entry, document chasing, and status updates
+- The Next New Thing AI (Andrew Warner + Corey Ganim, latest drops episode, surfaced Nov 2026): "Claude turns artifacts into apps, Gemini computer use, OpenAI will pay you" — Claude artifacts become Mac and Windows desktop apps; Gemini controls your computer; OpenAI OpenWorks small-business program as an opportunity for AI consultants; Thinking Machines Lab's Inkling 2 Mini; Graphed competitor ad tracking; SafePaste privacy protection; Riverside Agents; open-source SEO skills; JooVoice AI-powered phone calls
+- Takeaway: build like Wave — one screen, one job, small steps you understand — or scout one retiring-owner business in one niche and map the three most repetitive tasks an agent could do under human approval; sell the outcome, not the tool
+
+---
+
 ## November 26, 2026 — Startup Tech — Thursday, November 26, 2026
 
 - Listen: https://muse.ai/podcasts/media/650408721490907/f30b964a-6511-4100-9934-5af026fd65f9/ep-1472b497-3c3f-4dcc-835f-38ee03b52ed8.mp3
